@@ -1,0 +1,17 @@
+Software Engineering Tasks for Job Candidates
+
+INTRO
+Welcome to the technical task stage of the interview process. We are excited to see your skills in action and assess your problem-solving abilities. In this stage, you will be presented with three tasks that cover a range of technical challenges. 
+We encourage you to give each task your best attempt, even if you encounter difficulties or are unsure about certain aspects. Please note that we value your effort and approach more than achieving a perfect solution. 
+We are interested in understanding how you tackle problems, your problem-solving process, and the clarity of your code. Once you have completed the tasks, we kindly ask you to upload your solutions to your, public, GitHub repository. 
+Ensure that your repository is well-organized, and each task has its own dedicated folder with clear instructions on how to run your code. Not all tasks have to be solved, incomplete tasks will also be considered.
+For the ease of solving the second task, we recommend that you use Flask, although any framework can be used to solve the task.
+
+LANGUAGES
+- Python and JS
+
+SUBMISSION GUIDELINES
+- Upload your code on GitHub and send the link to the repository back to the SKAI LABS.
+- Include a README file with your solutions explaining your approach, any assumptions made, and steps to run your code.
+
+Good luck!

@@ -1,0 +1,31 @@
+ {
+    "productListings": [
+      {"productID": "123", "authorizedSellerID": "A1"},
+      {"productID": "124", "authorizedSellerID": "A2"},
+      {"productID": "125", "authorizedSellerID": "A3"},
+      {"productID": "126", "authorizedSellerID": "A4"},
+      {"productID": "127", "authorizedSellerID": "A5"},
+      {"productID": "128", "authorizedSellerID": "A6"},
+      {"productID": "129", "authorizedSellerID": "A7"},
+      {"productID": "130", "authorizedSellerID": "A8"},
+      {"productID": "131", "authorizedSellerID": "A9"},
+      {"productID": "132", "authorizedSellerID": "A10"},
+      {"productID": "133", "authorizedSellerID": "A11"}
+    ],
+    "salesTransactions": [
+      {"productID": "123", "sellerID": "B2"},
+      {"productID": "123", "sellerID": "A1"},
+      {"productID": "124", "sellerID": "B3"},
+      {"productID": "125", "sellerID": "A3"},
+      {"productID": "126", "sellerID": "B4"},
+      {"productID": "127", "sellerID": "A5"},
+      {"productID": "128", "sellerID": "B6"},
+      {"productID": "129", "sellerID": "A7"},
+      {"productID": "130", "sellerID": "B8"},
+      {"productID": "131", "sellerID": "A9"},
+      {"productID": "132", "sellerID": "B10"},
+      {"productID": "133", "sellerID": "A11"},
+      {"productID": "134", "sellerID": "B12"}
+    ]
+ }
+  
