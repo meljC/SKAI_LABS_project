@@ -23,7 +23,7 @@ pip install Flask
 python app.py
 ```
 
-This command starts the Flask server, typically available at `http://127.0.0.1:5000/`.
+This command starts the Flask server, by default available at `http://127.0.0.1:5000/`.
 
 ### Sending a Request
 
@@ -40,8 +40,6 @@ curl -X POST http://127.0.0.1:5000/schedule \
 This command assumes that you have a file named `data.json` in the current directory containing the JSON-formatted start and end times of the interviews.
 
 #### Example `data.json` File
-
-Create a file named `data.json` with the following content:
 
 ```json
 {
@@ -65,7 +63,3 @@ The API will return a JSON object with the maximum number of non-overlapping int
 ## Error Handling
 
 The API includes basic error handling for invalid requests, such as mismatched lengths of `start_times` and `end_times`. In such cases, it will return an appropriate error message and HTTP status code.
-
-## Contact
-
-For any queries or feedback regarding this project, please open an issue on GitHub.
