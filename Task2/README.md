@@ -43,7 +43,7 @@ The API responds with a JSON object containing unauthorized sales transactions, 
 ```json
 {
   "unauthorizedSales": [
-    {"productID": "123", "unauthorizedSellerID": ["B2"]},A
+    {"productID": "123", "unauthorizedSellerID": ["B2"]}
   ]
 }
 ```
