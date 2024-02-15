@@ -3,7 +3,7 @@
 
 ### Description
 
-The goal of this task is to create a web application that displays a polygon, defined in a provided JSON file, on a map using the OpenLayers library. The application fetches polygon coordinates (JSON file) from a Flask server and displays the polygon on a map, ensuring the map centers on the polygon and adjusts its zoom to make the entire polygon visible.
+The goal of this task is to create a web application that displays a polygon, defined in a provided JSON file, on a map using the OpenLayers library. The application fetches polygon coordinates from a Flask server and displays the polygon on a map, ensuring the map centers on the polygon and adjusts its zoom to make the entire polygon visible.
 
 ### Technologies Used
 
