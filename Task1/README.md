@@ -1,9 +1,9 @@
 
 ## Task 1: Display Polygon on a Map
 
-### Overview
+### Description
 
-The goal of this task is to create a web application that displays a polygon, defined in a provided JSON file, on a map using the OpenLayers library. The application fetches polygon coordinates from a Flask server and displays the polygon on a map, ensuring the map centers on the polygon and adjusts its zoom to make the entire polygon visible.
+The goal of this task is to create a web application that displays a polygon, defined in a provided JSON file, on a map using the OpenLayers library. The application fetches polygon coordinates (JSON file) from a Flask server and displays the polygon on a map, ensuring the map centers on the polygon and adjusts its zoom to make the entire polygon visible.
 
 ### Technologies Used
 
@@ -20,10 +20,6 @@ The goal of this task is to create a web application that displays a polygon, de
 2. **Accessing the Application:**
    - Open a web browser and go to `http://localhost:5000` to view the application.
 
-### Assumptions and Decisions
-
-- The polygon coordinates are served from a static JSON file using Flask.
-- OpenLayers is used for displaying the map due to its flexibility and compatibility with various map sources and formats.
 
 For any questions or further information, feel free to contact me at dmeljanac@gmail.com.
 
