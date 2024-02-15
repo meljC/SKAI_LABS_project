@@ -3,16 +3,7 @@
 
 ## Description
 
-This repository contains a Flask application that serves a RESTful API for scheduling job interviews. The API accepts start and end times for multiple job interviews and calculates the maximum number of non-overlapping interviews a person can attend. This tool is designed to help job seekers optimize their interview schedules.
-
-## Features
-
-- RESTful API endpoint accepting JSON input.
-- Calculates the maximum number of non-overlapping interviews.
-- Simple and efficient algorithm implementation.
-- Easy to deploy and use with `curl` or any HTTP client.
-
-## Getting Started
+This repository contains a Flask application that serves a RESTful API for scheduling job interviews. The API accepts start and end times for multiple job interviews and calculates the maximum number of non-overlapping interviews a person can attend. 
 
 ### Prerequisites
 
